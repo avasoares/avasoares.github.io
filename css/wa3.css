@@ -22,3 +22,11 @@ body {
   p, li, dd, dt, address {
     line-height: 1.5;
   }
+  a[href^='mailto']::before {
+    content: '📧 ';
+  }
+  
+  a[href^='tel']::before {
+    content: '📞 ';
+  }
+  
