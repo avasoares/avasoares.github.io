@@ -1,0 +1,17 @@
+Ava Soares & Bella Consentino
+1. line 2- missing html tag that is found on line 6 and missing lang attribute 
+2. line 3- no meta charset="utf-8">
+3. line 4- no close head tag
+4. line 4- heading 1 should be in the body not under the title 
+4. line 5- h1 should come after body tag 
+5. line 5- body tag is missing the > it should look like <body>
+6. line 7- div is missing closing div 
+7. line 8- needs </p> after the word paragraph 
+8. line 8- strong tag needs a closing strong tag 
+9. line 10- instead of href it needs src 
+10. line 12- needs opening h2 tag before the word this 
+11. line 12- image was missing _ before 2 in order to call image
+12.line 14- no opening p tag before text 
+13. line 15- missing "<!--"to make the comment a comment-->
+14. line 16- needs closing body tag
+15. line 16- the closing html is spelt wrong 
