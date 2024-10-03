@@ -1,0 +1,25 @@
+
+  html {
+    font-family: sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    background: #ccc;
+    background-image: url(/img/Brazilsoccer.jpg);
+    background-size: 100%;
+
+  }
+  
+  img {
+    width: 25%; height: auto;
+
+  }
+
+  #ball {
+    width: 15%; height: auto;
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+
+}
