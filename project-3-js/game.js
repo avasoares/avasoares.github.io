@@ -74,7 +74,7 @@ function drawBird() {
     const birdHeight = bird.size * 1; 
     const beakSize = 10; 
 
-    // Draw body
+   
     ctx.fillStyle = "yellow";
     ctx.beginPath();
     ctx.ellipse(
